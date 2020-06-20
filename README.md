@@ -83,6 +83,8 @@
 
 ## util.js
 
+## magic-grid.min.js
+
 <hr>
 
 ## Bootstrap v4.5.0 - JS
