@@ -22,6 +22,9 @@
 > Wrapper CSS Style
 
 ## now-ui-kit.css, now-ui-kit.min.css [Now UI Kit - v1.3.0]
+
+## FontAwesomeAll.css
+
 <hr>
 
 ## Bootstrap v4.5.0 - CSS
