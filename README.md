@@ -5,9 +5,6 @@
 ## 404.css
 > Fonts: Ubuntu-Medium, Ubuntu-Regular, Ubuntu-Light
 
-## font-awesome.min.css
-> Font Awesome 4.6.3
-
 ## wrapper.css
 > Wrapper CSS Style
 
